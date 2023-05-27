@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="button_save_text">Add</string>
+    <string name="button_load">Load</string>
+    <string name="update_title">Update</string>
+    <string name="delete_description">Delete Description</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="priority">priority</string>
+</resources>
